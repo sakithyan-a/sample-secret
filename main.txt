@@ -1,3 +1,9 @@
 
 
 no secrets 
+
+git config --global user.name "sakithyan-a"
+git config --global password "passworq3480asdf@adsfua9(2r)"
+
+key = "AIzaSyD4-FAKEKEY4TESTINGONLY"
+
